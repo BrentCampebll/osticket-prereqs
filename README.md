@@ -29,7 +29,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img "/>
+<img ![image](https://github.com/BrentCampebll/osticket-prereqs/assets/138734639/3f8e6678-3d91-4173-aeaa-831902519830)
+"/>
 </p>
 <p>
 To get started you need to create a Resource Group and Windows 10 virtual machine in Azure.  While creating your virtual Machine create a username and password to login to your virtual machine via remote desktop program.   I need to install/enable IIS withCGI and common HTTP services, As well as IIS management console.  After that I will begin installing the programs listed above in the prequiste section to install OSticket onto our virtual machine. 
